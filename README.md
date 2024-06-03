@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jyothishjoy
 - 👀 I’m interested in Computational Chemistry and Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning Techniques
 - 📫 How to reach me: joyjyothish@gmail.com
 
 
